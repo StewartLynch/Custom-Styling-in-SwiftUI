@@ -1,8 +1,8 @@
 # Custom Styles-SwiftUI
 This source code demonstrates a variety of different custom styling of controls that you can do using SwiftUI.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=csd7pyfEXgw
-" target="_blank"><img src="http://img.youtube.com/vi/csd7pyfEXgw/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=J6hrPpXyjf4
+" target="_blank"><img src="http://img.youtube.com/vi/J6hrPpXyjf4/0.jpg" 
 alt="Custom Styles  SwiftUI" width="480" height="360" border="1" /></a>
 
 All of these examples are covered in detail in the videos below
