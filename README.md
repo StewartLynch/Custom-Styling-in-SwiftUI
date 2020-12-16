@@ -6,6 +6,12 @@ This source code demonstrates a variety of different custom styling of controls 
 alt="Custom Styles  SwiftUI" width="480" height="360" border="1" /></a>
 
 
+<!-- moved "vertical-align:middle" style from span to img -->
+<div>
+  <img style="vertical-align:middle" <a href='https://ko-fi.com/Z8Z22WRVG' target='_blank'><img height='36' style='vertical-align:middle;border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <span style="">Works.</span>
+</div>
+
 <div>
   <span style = ''>If you appreciate my work, please  </span><a href='https://ko-fi.com/Z8Z22WRVG' target='_blank'><img height='36' style='vertical-align:middle;border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
