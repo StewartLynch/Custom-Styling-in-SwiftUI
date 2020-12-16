@@ -6,7 +6,9 @@ This source code demonstrates a variety of different custom styling of controls 
 alt="Custom Styles  SwiftUI" width="480" height="360" border="1" /></a>
 
 
-If you appreciate my work, please  <a href='https://ko-fi.com/Z8Z22WRVG' target='_blank'><img height='36' style='vertical-align:middle;border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<div>
+  <span style = ''>If you appreciate my work, please  </span><a href='https://ko-fi.com/Z8Z22WRVG' target='_blank'><img height='36' style='vertical-align:middle;border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
 
 All of these examples are covered in detail in the videos below
 
